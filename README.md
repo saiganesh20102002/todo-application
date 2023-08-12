@@ -14,3 +14,4 @@ Adding of Tasks:
 Marking up the Task:
 ![Screenshot 2023-08-12 111614](https://github.com/saiganesh20102002/todo-application/assets/112755004/57890724-c837-46b2-a5d2-29e3fe46ae4f)
 
+Also we can delete the tasks in the list and can save the changes made.
